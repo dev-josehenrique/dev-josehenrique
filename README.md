@@ -36,7 +36,7 @@ Sou um desenvolvedor focado em criar soluções digitais inovadoras e funcionais
 
 🛠️ Minhas Tecnologias
 <p align="center">
-<img src="img.shields.io/badge/React-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/React-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
