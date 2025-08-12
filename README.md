@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/josehenriqu3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://links.devjosehenrique.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Links"/>
+  </a>
 </div>
 
 <h1 align="center">
