@@ -18,7 +18,7 @@
 Olá, eu sou o José Henrique 👋
 </h1>
 <h3 align="center">
-Um Desenvolvedor Web Full Stack apaixonado por tecnologia.
+Desenvolvedor Web Full Stack
 </h3>
 
 :man_technologist: Sobre Mim
