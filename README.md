@@ -9,12 +9,6 @@
   <a href="https://www.linkedin.com/in/josehenriqu3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://josehenrique.online" target="_blank">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
-  </a>
-  <a href="https://www.instagram.com/jose.henriqu3/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
 
 <h1 align="center">
